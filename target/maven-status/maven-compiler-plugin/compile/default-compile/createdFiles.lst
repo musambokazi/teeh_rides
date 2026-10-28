@@ -1,3 +1,2 @@
-com/musambokazi/models/Rider.class
-com/musambokazi/models/Driver.class
-com/musambokazi/Rides.class
+com/musambokazi/services/Rides.class
+com/musambokazi/users/Passenger.class
